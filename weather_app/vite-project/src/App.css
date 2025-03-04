@@ -1,0 +1,12 @@
+.some {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    margin: 50px;
+}
+
+.s {
+    background-color: green;
+    height: 100vh;
+    width: 100%;
+}
